@@ -1,6 +1,7 @@
 name: flutter_w
 description: CLI wrapper to run Flutter and hot reload/restart on file changes.
 version: 0.1.0
+repository: https://github.com/Ikxyz/flutter-watch-cli
 environment:
   sdk: ">=3.0.0 <4.0.0"
 

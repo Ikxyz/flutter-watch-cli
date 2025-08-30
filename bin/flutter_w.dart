@@ -1,6 +1,5 @@
 #!/usr/bin/env dart
 import 'dart:async';
-import 'dart:convert';
 import 'dart:io';
 
 import 'package:args/args.dart';
